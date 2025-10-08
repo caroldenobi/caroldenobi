@@ -46,7 +46,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo GitHub, programação e criação de projetos web e mobile
 - 🎯 Meu objetivo é ser desenvolvedor Full Stack
 - 📚 Gosto de aprender sobre Front-End
-- ✝ Cada dia é uma chance pra ser melhor que ontem.
+- ✝ Assim, fixamos os olhos, não naquilo que se vê, mas no que não se vê, pois o que se vê é transitório, mas o que não se vê é eterno. 
+2 Coríntios 4:18
 
 ---
 
